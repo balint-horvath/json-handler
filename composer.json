@@ -1,0 +1,18 @@
+{
+    "name": "balint-horvath/json-handler",
+    "description": "Simple JSON Handler",
+    "license": "Apache License Version 2.0",
+    "authors": [
+        {
+            "name": "Bálint Horváth",
+            "email": "balint@balint.business"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "BalintHorvath": "src/"
+        }
+    }
+}
